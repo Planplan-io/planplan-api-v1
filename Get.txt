@@ -1,0 +1,1 @@
+GET /api/v1/?d={ domaine }&a={ api_token }&r={ recherche }
