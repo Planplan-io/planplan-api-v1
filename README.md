@@ -4,7 +4,7 @@
 
 <p>Pour voir la documentation rendez-vous sur <a href="https://dev.planplan.io/api/">https://dev.planplan.io/api/</a></p>
 
-    <table>
+<table>
         <thead >
             <tr >
                 <th >Api</th>
