@@ -1,7 +1,7 @@
 <h1>planplan-api-v1</h1>
 
-<p>Mise en place de api de recherche interne pour votre plateforme</p>
-
+<p>Mise en place de api de recherche interne pour des platefromes ecommerce</p>
+<p>Vous devez obligatoirement avoir l'"api_token" pour l'authentification</p>
 <p>curl --location --globoff '/api/v1/?d={ domaine }&r={ recherche }' --header 'api_token;'</p>
 
 <p>GET /api/v1/?d={ domaine }&r={ recherche }</p>
