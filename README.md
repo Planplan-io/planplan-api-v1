@@ -2,7 +2,7 @@
 
 <p>Mise en place de api de recherche interne pour votre plateforme</p>
 
-<p>curl --location --globoff https://planplan.io/api/v1/?d={ domaine }&r={ recherche } --header 'api_token;'</p>
+<p>curl --location --globoff '/api/v1/?d={ domaine }&r={ recherche }' --header 'api_token;'</p>
 
 <p>GET /api/v1/?d={ domaine }&r={ recherche }</p>
 
